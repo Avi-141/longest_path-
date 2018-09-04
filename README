@@ -1,0 +1,4 @@
+Trying to solve the longest path problem using NEAT 
+NEAT- neuro evolution of augumenting topologies 
+Represent the graph as a two-dimensional array, and n-bit array 
+Introduce mutations 
